@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/icon_camera"
+        android:title="@string/camera"/>
+    <item
+        android:id="@+id/navigation_listing"
+        android:icon="@drawable/icon_list"
+        android:title="@string/listing"/>
+    <item
+        android:id="@+id/navigation_logout"
+        android:icon="@drawable/icon_exit"
+        android:title="@string/logout"/>
+</menu>
